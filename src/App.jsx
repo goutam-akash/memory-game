@@ -110,8 +110,8 @@ function App() {
           </div>
         ))}
       </div>
-      <div class="container">
-        <button class="new-game-button" onClick={startGame}>New Game</button>
+      <div className="container">
+        <button className="new-game-button" onClick={startGame}>New Game</button>
       </div>
 
     </main>
